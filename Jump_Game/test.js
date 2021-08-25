@@ -33,5 +33,5 @@ function start(){
 
 let count = document.getElementById("count") = () =>{
 
-    
+    alert("Hello World");    
 }
