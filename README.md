@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Luansk1
 - 👀 I’m interested in Web Developing, AI, IOS App Developing
 - 🌱 I’m currently learning Full-Stack Web Developing, Swfit and some more stuff but it would be to much to list all of them here
-- 💞️ I’m looking to collaborate on a Website Project for more information contact me
+- 💞️ I’m looking for People to start a Web Project, if you are interested contact me.
 - 📫 How to reach me Twitter @FactoryVT
 
 <!---
